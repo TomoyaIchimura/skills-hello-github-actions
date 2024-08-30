@@ -1,6 +1,6 @@
 <header>
 
-# Hello GitHub Actions:computer:
+# Hello GitHub Actions :computer:
 
 _Create and run a GitHub Actions workflow._
 

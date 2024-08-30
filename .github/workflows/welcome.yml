@@ -1,4 +1,4 @@
-name: Welcome New Contributor
+name: Welcome New Contributor2
 on:
   pull_request:
     types: [opened]
